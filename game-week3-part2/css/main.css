@@ -36,6 +36,37 @@ transition: 1s;
     border-radius:5px;
     font-family:'Open Sans', Arial, sans-serif;
     font-size:30px;
+}
 
+/*Styling for slide paragraphs*/
+.slide p{
+    margin-top:15px;
+    margin-bottom:15px;
+    line-height:45px;
 
 }
+
+.slide a, .slide a:visited{
+    color:#071549;
+    text-decoration:none;
+    background-color:rgba(0,0,0,0.3);
+    padding:5px;
+    border-radius:5px;
+    border:1px solid #cde;
+}v
+.slide a:hover, .slide a:active {
+     background-color:#cde;
+
+
+ }
+ /*Styling for text area*/
+ .slide .slide-text{
+     height:450px;
+
+ }
+ /*Styling for menu*/
+ div.menu{
+     border-top:2px solid black;
+     padding-top:25px;
+     text-align:center;
+ }
