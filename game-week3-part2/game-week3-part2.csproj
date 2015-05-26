@@ -59,6 +59,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Images\attacked.jpg" />
+    <Content Include="Assets\Images\car.jpg" />
+    <Content Include="Assets\Images\cry.jpg" />
+    <Content Include="Assets\Images\door.jpg" />
+    <Content Include="Assets\Images\endaszombie.jpg" />
+    <Content Include="Assets\Images\first2.jpg" />
+    <Content Include="Assets\Images\firstaid.jpg" />
+    <Content Include="Assets\Images\runman.jpg" />
     <Content Include="Assets\Images\zombie.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">

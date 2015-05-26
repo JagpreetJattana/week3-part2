@@ -39,10 +39,63 @@ transition: 1s;
     border-radius:5px;
     font-family:'Open Sans', Arial, sans-serif;
     font-size:30px;
+   
 }
+.slideone {
+    background-image: url("../Assets/Images/first2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+
+.slidethree {
+    background-image: url("../Assets/Images/runman.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+.slidesix {
+    background-image: url("../Assets/Images/door.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+.slideseven {
+    background-image: url("../Assets/Images/firstaid.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+.slidetwelwe {
+    background-image: url("../Assets/Images/endaszombie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+.slidethirteen {
+    background-image: url("../Assets/Images/car.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+.slidefourteen {
+    background-image: url("../Assets/Images/attacked.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+.slidefifteen {
+    background-image: url("../Assets/Images/cry.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items:stretch;
+}
+
+
 
 /*Styling for slide paragraphs*/
 .slide p{
+    color:blue;
     margin-top:15px;
     margin-bottom:15px;
     line-height:45px;
@@ -54,12 +107,14 @@ transition: 1s;
 
 
 .slide a, .slide a:visited{
-    color:#071549;
+    color:red;
     text-decoration:none;
-    background-color:rgba(0,0,0,0.3);
+    background-color:black;
     padding:5px;
     border-radius:5px;
     border:1px solid #cde;
+    
+    
 }v
 .slide a:hover, .slide a:active {
      background-color:#cde;
